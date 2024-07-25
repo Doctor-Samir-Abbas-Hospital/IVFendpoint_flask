@@ -2,8 +2,11 @@ flask
 requests
 gunicorn
 langchain
-langchain_core
-qdrant_client
 langchain_community
+langchain_core
 langchain_openai
+python-dotenv
+tiktoken
+qdrant-client
+openai
 
