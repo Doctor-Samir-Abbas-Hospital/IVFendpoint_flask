@@ -1,0 +1,7 @@
+flask
+langchain
+langchain_core
+qdrant_client
+langchain_community
+langchain_openai
+
