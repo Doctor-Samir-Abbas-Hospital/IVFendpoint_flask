@@ -1,4 +1,6 @@
 flask
+requests
+gunicorn
 langchain
 langchain_core
 qdrant_client
